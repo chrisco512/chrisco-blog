@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    url: 'https://chrisco.io',
+    title: `ChrisCo's Notes`,
+    subtitle: 'Closing Chrome tabs, one Cornell note at a time.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -20,13 +20,10 @@ module.exports = {
       }
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#'
+      name: 'Chris Cordle',
+      twitter: 'ChrisCo255',
+      github: 'chrisco255',
+      email: 'ufcordle@hotmail.com',
     }
   },
   plugins: [
