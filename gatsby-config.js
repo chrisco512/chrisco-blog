@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     url: 'https://chrisco.io',
     title: `ChrisCo's Notes`,
-    subtitle: 'Closing Chrome tabs, one Cornell note at a time.',
-    copyright: '© All rights reserved.',
+    subtitle: 'Always be learning, always be exploring.',
+    copyright: '©2018 All rights reserved.',
     disqusShortname: '',
     menu: [
       {

@@ -1,5 +1,5 @@
 ---
-title: "ChrisCo's Notes & More"
+title: "ChrisCo's Intro"
 date: "2018-05-31T05:48:35.741Z"
 layout: post
 draft: false
