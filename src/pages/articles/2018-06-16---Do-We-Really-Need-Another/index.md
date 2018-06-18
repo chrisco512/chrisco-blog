@@ -23,6 +23,8 @@ description: "Why the churn in web development tooling is good for you."
 	- Precambrian explosion
 - Open source ethos
 
+A common refrain I've seen among the dev community is complaining about the 
+
 >"Whether you think you can, or you think you can't--you're right."
 >-Henry Ford
 
