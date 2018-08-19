@@ -17,7 +17,13 @@ tags:
 description: "After several decades of explosive growth in technology, we are poised for an even bigger boom."
 ---
 
-# Another Title
+For as long as I can remember, the overriding narrative of the tech industry has been one of never-ending, exponential growth. My earliest memories of computing was interacting with an Apple IIe in my kindergarten classroom in the early 90s. As I grew up, tech grew up with me. We would get our first home computer a few years later, a used Packard Bell 486. This machine was my first gateway to the internet, and I'd use it to dial into AOL. I watched as Windows 3.x got supplanted by Windows 95 and as cable internet superceded dial up. I watched as laptops proliferated college campuses, with free WiFi available in cafes, libraries, and book stores everywhere. I joined in on the social media revolution as people began to intertwine their personal and online lives. The smart phone revolution kicked off by the original iPhone set this trend into hyperspeed.
+
+While it has been incredible watching this tech revolution take place, and I cannot deny its profound impact on my life, I have often wondered when we'll reach "peak tech". After all, the growth we've experienced over the past few decades can't continue forever, right? There's got to be some leveling off. While it would perhaps be nice for society to get a breather and take time to grapple with the implications of tech's recent advances...it's not likely that we'll get any such break any time soon. 
+
+Although mobile computing has reached high levels of saturation, with growth leveling off for Apple's iPhone and Google's Android, some of tech's biggest recent advances are poised to dominate the narrative over the next decade. Unlike past tech revolutions, which happened somewhat sequentially, with the mass market going from desktop computing to portables to internet to mobile...the next decade of tech will see several profoundly different developments occur in parallel.
+
+In other words, it's my prediction that the 2020's will be just as "roaring" as the 1920's, with a decade of explosive economic growth driven by 
 
 - These platforms will eventually exceed the hype
 - A brief summary of each and some of the most interesting developments in each one along with predictions of where they will go
@@ -60,6 +66,7 @@ description: "After several decades of explosive growth in technology, we are po
   - Implications
     - Software development will get faster
     - "One-person unicorn"
+- Electric & Solar
 
 # Serverless
 
