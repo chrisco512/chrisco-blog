@@ -4,7 +4,6 @@ module.exports = {
     title: `ChrisCo's Notes`,
     subtitle: 'Always be learning, always be exploring.',
     copyright: '©2018 All rights reserved.',
-    disqusShortname: '',
     menu: [
       {
         label: 'Articles',
