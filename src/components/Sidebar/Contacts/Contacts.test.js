@@ -1,4 +1,3 @@
-
 // @flow strict
 import React from 'react';
 import renderer from 'react-test-renderer';
@@ -8,12 +7,8 @@ describe('Contacts', () => {
   const props = {
     contacts: {
       email: '#',
-      twitter: '#',
-      vkontakte: '#',
       github: '#',
-      rss: '#',
-      telegram: '#'
-    }
+    },
   };
 
   it('renders correctly', () => {
