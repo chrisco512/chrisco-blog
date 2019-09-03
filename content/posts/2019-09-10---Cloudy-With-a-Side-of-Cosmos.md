@@ -81,6 +81,12 @@ https://www.atmos-chem-phys.net/19/5033/2019/
 
 https://www.semanticscholar.org/paper/The-possible-connection-between-ionization-in-the-Pall%C3%A9a-Butlerb/4ad159e3523889be89dce82297271472d4c024bc
 
+https://sunriseswansong.wordpress.com/2019/08/31/arctic-sea-ice-the-refreeze-begins/
+
+https://www.iceagenow.info/
+
+https://judithcurry.com/
+
 ## Clouds and Climate
 
 ## Warm Clouds
