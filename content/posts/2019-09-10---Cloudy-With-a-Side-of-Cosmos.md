@@ -57,6 +57,13 @@ on land surface" <- good chart at 8:18 showing albedo of clouds, ice, desert, fo
 
 25:16 Charts showing trend in cloud cover - ISCCP-PATMOS-X cloud trend (percentage) - CMPI5 all cloud trend - Norris et al. 2016 Nature
 
+#### [Winter Monsoons Became Stronger During Geomagnetic Reversal](https://wattsupwiththat.com/2019/07/03/winter-monsoons-became-stronger-during-geomagnetic-reversal/)
+
+Interesting post on WUWT regarding monsoons and geomagnetic flips. Comment by ren on July 4th, 4:55am has some interesting charts
+I do not understand.
+
+#### [Force Majeure: The Sun's Role in Climate Change](https://www.thegwpf.org/content/uploads/2019/03/SvensmarkSolar2019-1.pdf)
+
 ## Clouds and Climate
 
 ## Warm Clouds
