@@ -64,6 +64,23 @@ I do not understand.
 
 #### [Force Majeure: The Sun's Role in Climate Change](https://www.thegwpf.org/content/uploads/2019/03/SvensmarkSolar2019-1.pdf)
 
+#### [Building a Particle Detector / Cloud Chamber](https://www.symmetrymagazine.org/article/january-2015/how-to-build-your-own-particle-detector)
+
+What if you calculated the 300-year average and then presented the annual ‘anomalies,’ as is commonly done with temperatures? Do you suppose it would still look “quite steady?” -Commenter Clyde Spencer May 10, 2019 11:26am on Svensmark Force Majeur WUWT. Wonder what
+that chart looks like?
+
+http://hockeyschtick.blogspot.com/2012/10/new-paper-finds-large-increase-in.html - Large increase in Northern Hemisphere sunshine
+since 1982.
+https://www.metoffice.gov.uk/pub/data/weather/uk/climate/actualmonthly/17/Sunshine/UK.gif
+
+http://climate4you.com/
+
+http://sol.spacenvironment.net/nairas/Dose_Rates.html
+
+https://www.atmos-chem-phys.net/19/5033/2019/
+
+https://www.semanticscholar.org/paper/The-possible-connection-between-ionization-in-the-Pall%C3%A9a-Butlerb/4ad159e3523889be89dce82297271472d4c024bc
+
 ## Clouds and Climate
 
 ## Warm Clouds
